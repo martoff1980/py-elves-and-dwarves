@@ -12,3 +12,4 @@ class Player(ABC):
     @abstractmethod
     def player_info(self) -> str:
         pass
+
