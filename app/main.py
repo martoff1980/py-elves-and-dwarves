@@ -21,4 +21,3 @@ def feast_of_the_dwarves(
 ) -> None:
     for single_dwarf in dwarves_list:
         single_dwarf.eat_favourite_dish()
-
